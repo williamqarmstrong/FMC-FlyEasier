@@ -1,0 +1,5 @@
+/Users/will/Projects/VNAV/VNAV/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/will/Projects/VNAV/VNAV/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/will/Projects/VNAV/VNAV/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/will/Projects/VNAV/VNAV/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/will/Projects/VNAV/VNAV/obj/iPhoneSimulator/Debug/VNAV.csproj.CoreCompileInputs.cache
